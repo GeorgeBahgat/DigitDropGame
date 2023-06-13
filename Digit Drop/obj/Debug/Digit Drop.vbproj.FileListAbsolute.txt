@@ -1,0 +1,15 @@
+C:\Users\George\Desktop\Digit Drop\Digit Drop\bin\Debug\Digit Drop.exe.config
+C:\Users\George\Desktop\Digit Drop\Digit Drop\bin\Debug\Digit Drop.exe
+C:\Users\George\Desktop\Digit Drop\Digit Drop\bin\Debug\Digit Drop.pdb
+C:\Users\George\Desktop\Digit Drop\Digit Drop\bin\Debug\Digit Drop.xml
+C:\Users\George\Desktop\Digit Drop\Digit Drop\obj\Debug\Digit Drop.vbproj.AssemblyReference.cache
+C:\Users\George\Desktop\Digit Drop\Digit Drop\obj\Debug\Digit Drop.vbproj.SuggestedBindingRedirects.cache
+C:\Users\George\Desktop\Digit Drop\Digit Drop\obj\Debug\Digit_Drop.Resources.resources
+C:\Users\George\Desktop\Digit Drop\Digit Drop\obj\Debug\Digit Drop.vbproj.GenerateResource.cache
+C:\Users\George\Desktop\Digit Drop\Digit Drop\obj\Debug\Digit Drop.vbproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\Digit Drop\Digit Drop\obj\Debug\Digit Drop.exe
+C:\Users\George\Desktop\Digit Drop\Digit Drop\obj\Debug\Digit Drop.xml
+C:\Users\George\Desktop\Digit Drop\Digit Drop\obj\Debug\Digit Drop.pdb
+C:\Users\George\Desktop\Digit Drop\Digit Drop\obj\Debug\Digit_Drop.GameForm.resources
+C:\Users\George\Desktop\Digit Drop\Digit Drop\obj\Debug\Digit_Drop.SortingForm.resources
+C:\Users\George\Desktop\Digit Drop\Digit Drop\obj\Debug\Digit_Drop.LevelsForm.resources
